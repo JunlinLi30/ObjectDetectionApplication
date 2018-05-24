@@ -18,5 +18,5 @@ Potentially, there are several difficulties that need to be addressed:
 5. Successfully connect the UI to the algorithm and data;
 6. Make unit tests on those 3 functionalities(photo, video, live camera);
 
-## For commit details, please refer to the following link: (If link cannot be viewed, feel free to leave me a message.)
+#### For commit details, please refer to the following link: (If link cannot be viewed, feel free to leave me a message.)
 [Commit details of previous repo](https://github.com/UWSEDS-aut17/uwseds-group-zero/commits/master)
